@@ -1,5 +1,5 @@
 {
-  "name": "react-native-calendars",
+  "name": "@timbastin/react-native-calendars",
   "version": "1.22.0",
   "main": "src/index.js",
   "description": "React Native Calendar Components",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wix/react-native-calendars"
+    "url": "git+https://github.com/timbastin/react-native-calendars.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
@@ -62,5 +62,12 @@
       }
     },
     "test-runner": "mocha"
+  },
+  "bugs": {
+    "url": "https://github.com/timbastin/react-native-calendars/issues"
+  },
+  "homepage": "https://github.com/timbastin/react-native-calendars#readme",
+  "directories": {
+    "example": "example"
   }
 }
